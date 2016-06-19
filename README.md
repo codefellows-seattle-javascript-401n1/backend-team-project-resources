@@ -1,4 +1,4 @@
-backend project week
+Project Week 01 - backend
 =======
 
 # Directions
